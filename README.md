@@ -2,6 +2,7 @@
 
 <h5 align="center">Hi! I'm a student and a developer who likes learning!</h5>
 
+*****
 
 <h3 align="center">🛠 Tech stack that I used at least once 🛠</h3>
 <div align="center">
@@ -26,7 +27,7 @@
 <br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=snowsuno&count_private=true&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=snowsuno&count_private=true&show_icons=true"/>
 </div>
   
 <!--
