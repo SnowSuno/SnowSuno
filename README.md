@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Kwon%20%20Soonho&animation=fadeIn&desc=Hi!%20I'm%20a%20student%20and%20a%20developer%20who%20likes%20learning!&descAlignY=80&descSize=16&descAlign=53)
 
 ### My Projects 📂
-> My personal projects
+```
+My personal projects
+```
 <details>
   <summary>🎼 Syncroom Korea</summary>
   
@@ -31,7 +33,9 @@
 <br/>
 
 ### Tech stack 🛠
-> Languages or frameworks that I used at least once
+```
+Languages or frameworks that I used at least once
+```
 <div align="center">
   <img src="https://img.shields.io/badge/Python-6a707a?style=for-the-badge&logo=Python&logoColor=white&labelColor=3766AB"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-6a707a?style=for-the-badge&logo=Javascript&logoColor=white&labelColor=F7DF1E"/></a>&nbsp 
@@ -54,7 +58,9 @@
 <br/>
 
 ### Stats 📊
-> My github stats
+```
+My github stats
+```
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=snowsuno&count_private=true&show_icons=true"/>
 </div>
