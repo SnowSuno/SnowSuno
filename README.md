@@ -32,6 +32,9 @@
 <details>
   <summary>🐝 <strong>KSABee</strong> - <i>A LOL history tracker and leaderboard for KSA students</i></summary>
 <br/>
+  
+`https:/ksabee.netlify.app/`
+  
 <img src="https://github.com/SnowSuno/profile-assets/blob/main/ksabee.png?raw=true" alt="KSABee" width="700"/>
   
 > This is a web service that shows the *League of Legends* history stats of KSA students. 
@@ -56,6 +59,9 @@
 <details>
   <summary>🎼 <strong>Syncroom Korea</strong> - <i>Extended web interface for Korean syncroom users</i></summary>
 <br/>
+  
+`https://syncroom.kr/`
+  
 <img src="https://github.com/SnowSuno/profile-assets/blob/main/syncroom.png?raw=true" alt="syncroom korea" width="700"/>
   
 > This is a web service that extends the functionalites of *Syncroom*, an online music platform made by yamaha. This is also my first project on `React` and `Next.js`.
@@ -75,6 +81,9 @@
 <details>
   <summary>📊 <strong>KSA Density</strong> - <i>A real-time people density tracker service for main places in KSA</i></summary>
 <br/>
+  
+`http://ksadensity.com/`
+  
 <img src="https://github.com/SnowSuno/profile-assets/blob/main/ksadensity.png?raw=true" alt="KSA Labyrinth" width="600"/>
   
 > This was a project for my Data Structure class. We built and installed beacons that could count the number of people in a specific place by their cell phone wifi signals, and displayed that data in the web so that users could avoid crowded places. Which would also have positive effects on the COVID 19 situation. 
@@ -93,6 +102,9 @@
 <details>
   <summary>🧩 <strong>KSA Labyrinth</strong> - <i>An online puzzle for SAF</i></summary>
 <br/>
+  
+`https://saf-2021.netlify.app/`
+  
 <img src="https://github.com/SnowSuno/profile-assets/blob/main/ksa_labyrinth.png?raw=true" alt="KSA Labyrinth" width="600"/>
   
 > This was my first web project made by basic `HTML`, `CSS`, and `Javascript`. It was used in our school festival, *SAF*.
