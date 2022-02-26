@@ -4,42 +4,46 @@
 
 > *My personal projects*
 
-`🕥 Most recent >`
+`🕥 Most recent ▾`
 <details>
   <summary>🎼 <strong>Syncroom Korea</strong> - <i>Extended web interface for Korean syncroom users</i></summary>
+<br/>
   
+> ![syncroom korea](https://github.com/SnowSuno/profile-assets/blob/main/syncroom.png?raw=true)
 > * Current version <br/>
-> [source](https://github.com/syncroomkr/syncroomkr.github.io)&nbsp;&nbsp;&nbsp;[service](https://syncroom.kr)
+> [repo](https://github.com/syncroomkr/syncroomkr.github.io)&nbsp;&nbsp;&nbsp;[service](https://syncroom.kr)
 > * Mobile prototype (JazzBangIt) <br/>
-> [source](https://github.com/snowsuno/jazzbangit)&nbsp;&nbsp;&nbsp;[service](https://jazzbangit.netlify.app)
+> [repo](https://github.com/snowsuno/jazzbangit)&nbsp;&nbsp;&nbsp;[service](https://jazzbangit.netlify.app)
 > * New version (on development) <br/>
-> [source](https://github.com/snowsuno/syncroom-connect)
+> [repo](https://github.com/snowsuno/syncroom-connect)
 > 
-> *tech stack* <br/>
 > <img src="https://img.shields.io/badge/React-6a707a?style=flat-square&logo=React&logoColor=white&labelColor=61DAFB"/></a>
 > <img src="https://img.shields.io/badge/Next.js-6a707a?style=flat-square&logo=Next.js&logoColor=white&labelColor=000000"/></a>
+
 </details>
 
 <details>
   <summary>🧩 <strong>KSA Labyrinth</strong> - <i>An online puzzle for SAF(KSA science academic festival)</i></summary>
 
-> &nbsp;[source](https://github.com/ksaidev/transbot)
+> &nbsp;[service](https://saf2021.netlify.app)
 > 
-> <img src="https://img.shields.io/badge/Python-6a707a?style=flat-square&logo=Python&logoColor=white&labelColor=3766AB"/></a>
+> <img src="https://img.shields.io/badge/HTML5-6a707a?style=flat-square&logo=HTML5&logoColor=white&labelColor=E34F26"/></a>
+> <img src="https://img.shields.io/badge/CSS3-6a707a?style=flat-square&logo=CSS3&logoColor=white&labelColor=1572B6"/></a>
+> <img src="https://img.shields.io/badge/Javascript-6a707a?style=flat-square&logo=Javascript&logoColor=white&labelColor=F7DF1E"/></a>
 </details>
 
 
 <details>
   <summary>💬 <strong>TransBot</strong> - <i>KakaoTalk korean-english translation chatbot for international students in KSA</i></summary>
 
-> &nbsp;[source](https://github.com/ksaidev/transbot)
+> &nbsp;[repo](https://github.com/ksaidev/transbot)
 > 
 > <img src="https://img.shields.io/badge/Python-6a707a?style=flat-square&logo=Python&logoColor=white&labelColor=3766AB"/></a>
 </details>
 
 <div align="right">
   
-  `< Oldest 🕑`
+  `▴ Oldest 🕑`
 </div>
 
 <br/>
