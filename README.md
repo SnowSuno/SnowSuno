@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Kwon%20%20Soonho&animation=fadeIn)
 
-<h6 align="center">Hi! I am a student and a developer who likes learning!</h6>
+<h5 align="center">Hi! I'm a student and a developer who likes learning!</h5>
 
 
 <h3 align="center">🛠 Tech stack that I used at least once 🛠</h3>
