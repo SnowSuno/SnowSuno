@@ -2,8 +2,6 @@
 
 ### 📂 My Projects 
 
-> *My personal projects*
-
 `🕥 Most recent ▾`
 
 <details>
