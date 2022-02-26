@@ -5,6 +5,54 @@
 > *My personal projects*
 
 `🕥 Most recent ▾`
+
+<details>
+  <summary>📝 <strong>Handa</strong> - <i>A Todo SNS app</i></summary>
+<br/>
+<img src="https://github.com/SnowSuno/profile-assets/blob/main/handa.png?raw=true" alt="handa" width="200"/>
+  
+> This is a todo SNS platform that people can share their todos which encourages them to complete it.
+>
+> `* currently on development`
+> 
+> repos <br/>
+> [frontend](https://github.com/jiwon79/HANDA)&nbsp;&nbsp;&nbsp;[backend](https://github.com/SnowSuno/handa-backend)
+> 
+> *Team members* <br/>
+> `PM` [@mn39](https://github.com/mn39) <br/>
+> `Design` Juwon Park <br/>
+> `Frontend` [@jiwon79](https://github.com/jiwon79) <br/>
+> `Backend` [@SnowSuno](https://github.com/SnowSuno) (*me*)
+>
+> <img src="https://img.shields.io/badge/Flutter-6a707a?style=flat-square&logo=Flutter&logoColor=white&labelColor=02569B"/></a>
+> <img src="https://img.shields.io/badge/FastAPI-6a707a?style=flat-square&logo=FastAPI&logoColor=white&labelColor=009688"/></a>
+
+</details>
+
+<details>
+  <summary>🐝 <strong>KSABee</strong> - <i>A LOL history tracker and leaderboard for KSA students</i></summary>
+<br/>
+<img src="https://github.com/SnowSuno/profile-assets/blob/main/ksabee.png?raw=true" alt="KSABee" width="700"/>
+  
+> This is a web service that shows the *League of Legends* history stats of KSA students. 
+>
+> `* currently abandoned :(`
+> 
+> repos <br/>
+> [frontend](https://github.com/SnowSuno/KSAbee)&nbsp;&nbsp;&nbsp;[backend (Django legacy)](https://github.com/SnowSuno/KSAbee_BE)&nbsp;&nbsp;&nbsp;[backend (FastAPI migration)](https://github.com/SnowSuno/KSAbee-backend)
+>
+> service <br/>
+> [web](https://ksabee.netlify.app)
+> 
+> *developed with* [@jiwon79](https://github.com/jiwon79)
+> 
+> <img src="https://img.shields.io/badge/React-6a707a?style=flat-square&logo=React&logoColor=white&labelColor=61DAFB"/></a>
+> <img src="https://img.shields.io/badge/Django-6a707a?style=flat-square&logo=Django&logoColor=white&labelColor=092E20"/></a>
+> <img src="https://img.shields.io/badge/FastAPI-6a707a?style=flat-square&logo=FastAPI&logoColor=white&labelColor=009688"/></a>
+
+</details>
+
+
 <details>
   <summary>🎼 <strong>Syncroom Korea</strong> - <i>Extended web interface for Korean syncroom users</i></summary>
 <br/>
