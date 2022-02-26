@@ -1,7 +1,29 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Kwon%20%20Soonho&animation=fadeIn&desc=Hi!%20I'm%20a%20student%20and%20a%20developer%20who%20likes%20learning!&descAlignY=80&descSize=16&descAlign=53)
 
+<h2 align="center">📂 My Projects 📂</h2>
 
-<h3 align="center">🛠 Tech stack that I used at least once 🛠</h3>
+
+### Syncroom Korea
+> Extended web-based interface for Korean syncroom users
+> * v1 (current) <br/>
+> [source](https://github.com/syncroomkr/syncroomkr.github.io)&nbsp;&nbsp;&nbsp;[service](https://syncroom.kr)
+> * Mobile prototype(JazzBangIt) <br/>
+> [source](https://github.com/snowsuno/jazzbangit)&nbsp;&nbsp;&nbsp;[service](https://jazzbangit.netlify.app)
+> * v2 (on development) <br/>
+> [source](https://github.com/snowsuno/syncroom-connect)
+>
+> <img src="https://img.shields.io/badge/React-6a707a?style=flat-square&logo=React&logoColor=white&labelColor=61DAFB"/></a>
+> <img src="https://img.shields.io/badge/Next.js-6a707a?style=flat-square&logo=Next.js&logoColor=white&labelColor=000000"/></a>
+
+
+### TransBot
+> KakaoTalk korean-english translation chatbot for international students in KSA <br/>
+> &nbsp;[source](https://github.com/ksaidev/transbot)
+> 
+> <img src="https://img.shields.io/badge/Python-6a707a?style=flat-square&logo=Python&logoColor=white&labelColor=3766AB"/></a>
+
+
+<h2 align="center">🛠 Tech stack that I used at least once 🛠</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-6a707a?style=for-the-badge&logo=Python&logoColor=white&labelColor=3766AB"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-6a707a?style=for-the-badge&logo=Javascript&logoColor=white&labelColor=F7DF1E"/></a>&nbsp 
