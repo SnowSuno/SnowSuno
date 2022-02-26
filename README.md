@@ -1,8 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Kwon%20%20Soonho&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Kwon%20%20Soonho&animation=fadeIn&desc=Hi!%20I'm%20a%20student%20and%20a%20developer%20who%20likes%20learning!&descAlignY=80)
 
-<h5 align="center">Hi! I'm a student and a developer who likes learning!</h5>
-
-*****
 
 <h3 align="center">🛠 Tech stack that I used at least once 🛠</h3>
 <div align="center">
