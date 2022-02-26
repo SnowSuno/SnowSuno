@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Kwon%20%20Soonho&animation=fadeIn&desc=Hi!%20I'm%20a%20student%20and%20a%20developer%20who%20likes%20learning!&descAlignY=80&descSize=16&descAlign=53)
 
-<h3 align="center">📂 My Projects 📂</h3>
+### 📂 My Projects 📂
 
 <details>
   <summary>Syncroom Korea</summary>
@@ -28,8 +28,9 @@
 > <img src="https://img.shields.io/badge/Python-6a707a?style=flat-square&logo=Python&logoColor=white&labelColor=3766AB"/></a>
 </details>
 
+<br/>
 
-<h3 align="center">🛠 Tech stack that I used at least once 🛠</h3>
+### 🛠 Tech stack that I used at least once 🛠
 <div align="center">
   <img src="https://img.shields.io/badge/Python-6a707a?style=for-the-badge&logo=Python&logoColor=white&labelColor=3766AB"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-6a707a?style=for-the-badge&logo=Javascript&logoColor=white&labelColor=F7DF1E"/></a>&nbsp 
