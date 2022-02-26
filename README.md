@@ -8,8 +8,8 @@
 <details>
   <summary>🎼 <strong>Syncroom Korea</strong> - <i>Extended web interface for Korean syncroom users</i></summary>
 <br/>
+<img src="https://github.com/SnowSuno/profile-assets/blob/main/syncroom.png?raw=true" alt="syncroom korea" width="700"/>
   
-> ![syncroom korea](https://github.com/SnowSuno/profile-assets/blob/main/syncroom.png?raw=true)
 > * Current version <br/>
 > [repo](https://github.com/syncroomkr/syncroomkr.github.io)&nbsp;&nbsp;&nbsp;[service](https://syncroom.kr)
 > * Mobile prototype (JazzBangIt) <br/>
