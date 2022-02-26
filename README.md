@@ -7,6 +7,31 @@
 `🕥 Most recent ▾`
 
 <details>
+  <summary>🎥 <strong>Showbility</strong> - <i>A talant sharing platform</i></summary>
+<br/>
+<img src="https://is5-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e2/60/1f/e2601f66-9e1d-34c8-9889-91ee73f02682/01024b67-e961-4bc8-87c2-e99996e391ff_6.5-1.png/600x0w.png" alt="showbility-1" width="200"/>
+<img src="https://is2-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c3/07/a8/c307a814-dbe8-1fa2-4ed2-dcd4428c2fda/2a63050a-f904-40fb-9d6f-1e617a3b93cd_6.5-2.png/600x0w.png" alt="showbility-1" width="200"/>
+  
+> This is a SNS-like platform where people can share their talants, artworks, designworks, portofolios, etc. I joined this team in the middle as a *frontend developer*.
+>
+> repos <br/>
+> `private`
+> 
+> services <br/>
+> [ios app](https://apps.apple.com/kr/app/%EC%87%BC%EB%B9%8C%EB%A6%AC%ED%8B%B0/id1592880243)
+> 
+> *Team members* <br/>
+> [@SnowSuno](https://github.com/SnowSuno) (*me*) <br/>
+> [@dbxodnsms](https://github.com/dbxodnsms) <br/>
+> [@WookSK](https://github.com/WookSK)
+> *...and others (no gh account)*
+>
+> <img src="https://img.shields.io/badge/React_Native-6a707a?style=flat-square&logo=React&logoColor=white&labelColor=61DAFB"/></a>
+> <img src="https://img.shields.io/badge/Django-6a707a?style=flat-square&logo=Django&logoColor=white&labelColor=092E20"/></a>
+
+</details>
+
+<details>
   <summary>📝 <strong>Handa</strong> - <i>A Todo SNS app</i></summary>
 <br/>
 <img src="https://github.com/SnowSuno/profile-assets/blob/main/handa.png?raw=true" alt="handa" width="200"/>
