@@ -10,6 +10,7 @@
 <br/>
 <img src="https://github.com/SnowSuno/profile-assets/blob/main/syncroom.png?raw=true" alt="syncroom korea" width="700"/>
   
+> This is a web service that extends the functionalites of *Syncroom*, an online music platform made by yamaha. This is also my first project on `React` and `Next.js`.
 > * Current version <br/>
 > [repo](https://github.com/syncroomkr/syncroomkr.github.io)&nbsp;&nbsp;&nbsp;[service](https://syncroom.kr)
 > * Mobile prototype (JazzBangIt) <br/>
@@ -22,9 +23,32 @@
 
 </details>
 
-<details>
-  <summary>🧩 <strong>KSA Labyrinth</strong> - <i>An online puzzle for SAF(KSA science academic festival)</i></summary>
 
+<details>
+  <summary>📊 <strong>KSA Density</strong> - <i>A real-time people density tracker service for main places in KSA</i></summary>
+<br/>
+<img src="https://github.com/SnowSuno/profile-assets/blob/main/ksadensity.png?raw=true" alt="KSA Labyrinth" width="600"/>
+  
+> This was a project for my Data Structure class. We built and installed beacons that could count the number of people in a specific place by their cell phone wifi signals, and displayed that data in the web so that users could avoid crowded places. Which would also have positive effects on the COVID 19 situation. 
+> 
+> &nbsp;[repo](https://github.com/2snchan/dsprobelog)&nbsp;&nbsp;&nbsp;[service](https://ksadensity.com)
+> 
+> *developed with* [@2snchan](https://github.com/2snchan)
+> 
+> <img src="https://img.shields.io/badge/PHP-6a707a?style=flat-square&logo=PHP&logoColor=white&labelColor=777BB4"/></a>
+> <img src="https://img.shields.io/badge/HTML5-6a707a?style=flat-square&logo=HTML5&logoColor=white&labelColor=E34F26"/></a>
+> <img src="https://img.shields.io/badge/CSS3-6a707a?style=flat-square&logo=CSS3&logoColor=white&labelColor=1572B6"/></a>
+> <img src="https://img.shields.io/badge/Javascript-6a707a?style=flat-square&logo=Javascript&logoColor=white&labelColor=F7DF1E"/></a>
+</details>
+
+
+<details>
+  <summary>🧩 <strong>KSA Labyrinth</strong> - <i>An online puzzle for SAF</i></summary>
+<br/>
+<img src="https://github.com/SnowSuno/profile-assets/blob/main/ksa_labyrinth.png?raw=true" alt="KSA Labyrinth" width="600"/>
+  
+> This was my first web project made by basic `HTML`, `CSS`, and `Javascript`. It was used in our school festival, *SAF*.
+> 
 > &nbsp;[service](https://saf2021.netlify.app)
 > 
 > <img src="https://img.shields.io/badge/HTML5-6a707a?style=flat-square&logo=HTML5&logoColor=white&labelColor=E34F26"/></a>
@@ -35,8 +59,13 @@
 
 <details>
   <summary>💬 <strong>TransBot</strong> - <i>KakaoTalk korean-english translation chatbot for international students in KSA</i></summary>
+<br/>
 
+> This project was built to help the communications between the Korean students and international students in KSA.
+> 
 > &nbsp;[repo](https://github.com/ksaidev/transbot)
+> 
+> *developed with* [@YerinKim125](https://github.com/YerinKim125)
 > 
 > <img src="https://img.shields.io/badge/Python-6a707a?style=flat-square&logo=Python&logoColor=white&labelColor=3766AB"/></a>
 </details>
