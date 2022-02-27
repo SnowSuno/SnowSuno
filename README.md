@@ -73,6 +73,7 @@
 > *developed with* [@jiwon79](https://github.com/jiwon79)
 > 
 > <img src="https://img.shields.io/badge/React-6a707a?style=flat-square&logo=React&logoColor=white&labelColor=61DAFB"/></a>
+> <img src="https://img.shields.io/badge/Typescript-6a707a?style=flat-square&logo=Typescript&logoColor=white&labelColor=3178C6"/></a>
 > <img src="https://img.shields.io/badge/Django-6a707a?style=flat-square&logo=Django&logoColor=white&labelColor=092E20"/></a>
 > <img src="https://img.shields.io/badge/FastAPI-6a707a?style=flat-square&logo=FastAPI&logoColor=white&labelColor=009688"/></a>
 
@@ -97,6 +98,7 @@
 > 
 > <img src="https://img.shields.io/badge/React-6a707a?style=flat-square&logo=React&logoColor=white&labelColor=61DAFB"/></a>
 > <img src="https://img.shields.io/badge/Next.js-6a707a?style=flat-square&logo=Next.js&logoColor=white&labelColor=000000"/></a>
+> <img src="https://img.shields.io/badge/Typescript-6a707a?style=flat-square&logo=Typescript&logoColor=white&labelColor=3178C6"/></a>
 
 </details>
 
