@@ -197,4 +197,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=snowsuno&count_private=true&show_icons=true"/>
 </div>
   
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:9EB8EA,100:9E95E8)
