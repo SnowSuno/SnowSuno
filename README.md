@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Kwon%20%20Soonho&animation=fadeIn&desc=Hi!%20I'm%20a%20student%20and%20a%20developer%20who%20likes%20learning!&descAlignY=55&descSize=16&descAlign=53&fontColor=f5f5fa&height=230&fontAlignY=38&color=0:9EB8EA,100:9E95E8)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Kwon%20%20Soonho&animation=fadeIn&desc=Hi!%20I'm%20a%20student%20and%20a%20developer%20who%20likes%20learning!&descAlignY=55&descSize=16&descAlign=53&fontColor=f5f5fa&height=230&fontAlignY=38&color=0:8face3,100:998ae3)
 
 ### 📂 My Projects 
 
