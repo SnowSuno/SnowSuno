@@ -7,8 +7,8 @@
 <details>
   <summary>🎥 <strong>Showbility</strong> - <i>A talant sharing platform</i></summary>
 <br/>
-<img src="https://is5-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e2/60/1f/e2601f66-9e1d-34c8-9889-91ee73f02682/01024b67-e961-4bc8-87c2-e99996e391ff_6.5-1.png/600x0w.png" alt="showbility-1" width="200"/>
-<img src="https://is2-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c3/07/a8/c307a814-dbe8-1fa2-4ed2-dcd4428c2fda/2a63050a-f904-40fb-9d6f-1e617a3b93cd_6.5-2.png/600x0w.png" alt="showbility-1" width="200"/>
+<img src="https://is5-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e2/60/1f/e2601f66-9e1d-34c8-9889-91ee73f02682/01024b67-e961-4bc8-87c2-e99996e391ff_6.5-1.png/600x0w.png" alt="showbility-1" width="170"/>
+<img src="https://is2-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c3/07/a8/c307a814-dbe8-1fa2-4ed2-dcd4428c2fda/2a63050a-f904-40fb-9d6f-1e617a3b93cd_6.5-2.png/600x0w.png" alt="showbility-1" width="170"/>
   
 > This is a SNS-like platform where people can share their talants, artworks, designworks, portofolios, etc. I joined this team in the middle as a *frontend developer*.
 >
