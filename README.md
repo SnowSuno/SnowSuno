@@ -49,6 +49,7 @@
 >
 > <img src="https://img.shields.io/badge/Flutter-6a707a?style=flat-square&logo=Flutter&logoColor=white&labelColor=02569B"/></a>
 > <img src="https://img.shields.io/badge/FastAPI-6a707a?style=flat-square&logo=FastAPI&logoColor=white&labelColor=009688"/></a>
+> <img src="https://img.shields.io/badge/Python-6a707a?style=flat-square&logo=Python&logoColor=white&labelColor=3766AB"/></a>
 
 </details>
 
@@ -76,6 +77,7 @@
 > <img src="https://img.shields.io/badge/Typescript-6a707a?style=flat-square&logo=Typescript&logoColor=white&labelColor=3178C6"/></a>
 > <img src="https://img.shields.io/badge/Django-6a707a?style=flat-square&logo=Django&logoColor=white&labelColor=092E20"/></a>
 > <img src="https://img.shields.io/badge/FastAPI-6a707a?style=flat-square&logo=FastAPI&logoColor=white&labelColor=009688"/></a>
+> <img src="https://img.shields.io/badge/Python-6a707a?style=flat-square&logo=Python&logoColor=white&labelColor=3766AB"/></a>
 
 </details>
 
