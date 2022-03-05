@@ -2,6 +2,8 @@
 
 ### 📂 My Projects 
 
+> *Click to expand*
+
 `🕥 Most recent ▾`
 
 <details>
