@@ -154,7 +154,7 @@
 > 
 > &nbsp;[repo](https://github.com/ksaidev/transbot)
 > 
-> *developed with* [@YerinKim125](https://github.com/YerinKim125)
+> *developed with* [@YerinKim125](https://github.com/YerinKim125) [@jhleekr](https://github.com/jhleekr)
 > 
 > <img src="https://img.shields.io/badge/Python-6a707a?style=flat-square&logo=Python&logoColor=white&labelColor=3766AB"/></a>
 </details>
