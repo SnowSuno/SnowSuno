@@ -1,13 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Kwon%20%20Soonho&animation=fadeIn&desc=Hi!%20I'm%20a%20student%20and%20a%20developer%20who%20likes%20learning!&descAlignY=55&descSize=16&descAlign=53&fontColor=f5f5fa&height=230&fontAlignY=38&color=0:8face3,100:998ae3)
 
-### 📂 My Projects 
+### 📂 Projects that I worked/am working on
 
 > *Click to expand*
 
 `🕥 Most recent ▾`
 
 <details>
-  <summary>🍪 <strong>Cookierun Store</strong> - <i>Official devsisters online goods store</i></summary>
+  <summary>🍪 <strong>CookieRun Store</strong> - <i>Official devsisters online goods store</i></summary>
 <br/>
 <img src="https://github.com/SnowSuno/profile-assets/blob/main/mc_store_desktop.png?raw=true" alt="showbility-1" width="720"/>
 <img src="https://github.com/SnowSuno/profile-assets/blob/main/mc_store_mobile.png?raw=true" alt="showbility-1" width="183"/>
