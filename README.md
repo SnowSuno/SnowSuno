@@ -9,8 +9,8 @@
 <details>
   <summary>🍪 <strong>CookieRun Store</strong> - <i>Official devsisters online goods store</i></summary>
 <br/>
-<img src="https://github.com/SnowSuno/profile-assets/blob/main/mc_store_desktop.png?raw=true" alt="showbility-1" width="720"/>
-<img src="https://github.com/SnowSuno/profile-assets/blob/main/mc_store_mobile.png?raw=true" alt="showbility-1" width="183"/>
+<img src="https://github.com/SnowSuno/profile-assets/blob/main/mc_store_desktop.png?raw=true" alt="mc-store-pc" width="720"/>
+<img src="https://github.com/SnowSuno/profile-assets/blob/main/mc_store_mobile.png?raw=true" alt="mc-store-phone" width="183"/>
   
 > This is an official online goods store for cookierun(Devsisters). I worked in this team for about a month as a *frontend developer*.
 >
