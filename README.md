@@ -7,6 +7,29 @@
 `🕥 Most recent ▾`
 
 <details>
+  <summary>🍪 <strong>Cookierun Store</strong> - <i>Official devsisters online goods store</i></summary>
+<br/>
+<img src="https://github.com/SnowSuno/profile-assets/blob/main/mc_store_desktop.png?raw=true" alt="showbility-1" width="720"/>
+<img src="https://github.com/SnowSuno/profile-assets/blob/main/mc_store_mobile.png?raw=true" alt="showbility-1" width="183"/>
+  
+> This is an official online goods store for cookierun(Devsisters). I worked in this team for about a month as a *frontend developer*.
+>
+> repos <br/>
+> `private`
+> 
+> services <br/>
+> [web](https://cookierunstore.co.kr/)
+> 
+>
+> <img src="https://img.shields.io/badge/Shopify-6a707a?style=flat-square&logo=Shopify&logoColor=white&labelColor=7AB55C"/></a>
+> <img src="https://img.shields.io/badge/GraphQL-6a707a?style=flat-square&logo=GraphQL&logoColor=white&labelColor=E10098"/></a>
+> <img src="https://img.shields.io/badge/HTML5-6a707a?style=flat-square&logo=HTML5&logoColor=white&labelColor=E34F26"/></a>
+> <img src="https://img.shields.io/badge/CSS3-6a707a?style=flat-square&logo=CSS3&logoColor=white&labelColor=1572B6"/></a>
+> <img src="https://img.shields.io/badge/Javascript-6a707a?style=flat-square&logo=Javascript&logoColor=white&labelColor=F7DF1E"/></a>
+
+</details>
+
+<details>
   <summary>🎥 <strong>Showbility</strong> - <i>A talant sharing platform</i></summary>
 <br/>
 <img src="https://is5-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e2/60/1f/e2601f66-9e1d-34c8-9889-91ee73f02682/01024b67-e961-4bc8-87c2-e99996e391ff_6.5-1.png/600x0w.png" alt="showbility-1" width="170"/>
