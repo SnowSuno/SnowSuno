@@ -1,14 +1,74 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Kwon%20%20Soonho&animation=fadeIn&desc=Hi!%20I'm%20a%20student%20and%20a%20developer%20who%20likes%20learning!&descAlignY=55&descSize=16&descAlign=53&fontColor=f5f5fa&height=230&fontAlignY=38&color=0:8face3,100:998ae3)
 
+
+### 🕝 My Timeline
+
+> *My experences, careers, etc.*
+
+- **KSA** &nbsp; `2019.03 ~ 2022.02`
+  > Computer Science, Physics major in *Korea Science Academy of KAIST*
+  
+- **KAIST** &nbsp; `2022.03 ~ `
+  > Currently enrolling in *KAIST*
+  
+- **SPARCS** [@sparcs-kaist](https://github.com/sparcs-kaist) &nbsp; `2022.03 ~ `
+  > System Programmers’ Association for Researching Computer Systems
+  >
+  > Working on [`DongBang`](https://dongbang.sparcs.org), [`Zabo`](https://zabo.sparcs.org)
+
+- **Devsisters** [@devsisters](https://github.com/devsisters) &nbsp;  `2022.03 ~ 2022.04`
+  > Worked on [`Cookierun Store`](https://cookierunstore.co.kr) frontend
+
+
 ### 📂 Projects that I worked on
 
-> *Click to expand*
+> *Expand to see details*
 
 `🕥 Most recent ▾`
 
 <details>
+  <summary>🚪 <strong>DongBang</strong> - <i>Internal service for SPARCS clubroom</i></summary>
+<br/>
+
+[`https://dongbang.sparcs.org`](https://dongbang.sparcs.org)
+  
+> An internal service for SPARCS that manages the presence of members in the clubroom, reserve spaces, etc.
+>
+> repos <br/>
+> [`service`](https://github.com/sparcs-kaist/dongbang)
+> [`presence-checker`](https://github.com/sparcs-kaist/dongbang-presence)
+> 
+> services <br/>
+> [`web`](https://dongbang.sparcs.org)
+> 
+> <img src="https://img.shields.io/badge/Meteor-6a707a?style=for-the-badge&logo=Meteor&logoColor=white&labelColor=DE4F4F"/></a>
+> <img src="https://img.shields.io/badge/React-6a707a?style=for-the-badge&logo=React&logoColor=white&labelColor=61DAFB"/></a>
+
+</details>
+
+<details>
+  <summary>📌 <strong>Zoomark</strong> - <i>Bookmark your zoom meetings</i></summary>
+<br/>
+
+[`https://pin-zoom.vercel.app`](https://pin-zoom.vercel.app)
+
+<img src="https://github.com/SnowSuno/profile-assets/blob/main/zoomark.png?raw=true" alt="zoomark" width="720"/>
+  
+> A mini project to bookmark zoom meetings easily made for my personal needs
+>
+> [`repo`](https://github.com/SnowSuno/zoomark) &nbsp;&nbsp;
+> [`service`](https://pin-zoom.vercel.app)
+> 
+> <img src="https://img.shields.io/badge/React-6a707a?style=for-the-badge&logo=React&logoColor=white&labelColor=61DAFB"/></a>
+
+</details>
+
+<details>
   <summary>🍪 <strong>CookieRun Store</strong> - <i>Official devsisters online goods store</i></summary>
 <br/>
+
+[`https://cookierunstore.co.kr`](https://cookierunstore.co.kr)
+
 <img src="https://github.com/SnowSuno/profile-assets/blob/main/mc_store_desktop.png?raw=true" alt="mc-store-pc" width="720"/>
 <img src="https://github.com/SnowSuno/profile-assets/blob/main/mc_store_mobile.png?raw=true" alt="mc-store-phone" width="183"/>
   
@@ -18,7 +78,7 @@
 > `private`
 > 
 > services <br/>
-> [web](https://cookierunstore.co.kr/)
+> [`web`](https://cookierunstore.co.kr/)
 > 
 >
 > <img src="https://img.shields.io/badge/Shopify-6a707a?style=flat-square&logo=Shopify&logoColor=white&labelColor=7AB55C"/></a>
@@ -41,7 +101,7 @@
 > `private`
 > 
 > services <br/>
-> [ios app](https://apps.apple.com/kr/app/%EC%87%BC%EB%B9%8C%EB%A6%AC%ED%8B%B0/id1592880243)
+> [`ios app`](https://apps.apple.com/kr/app/%EC%87%BC%EB%B9%8C%EB%A6%AC%ED%8B%B0/id1592880243)
 > 
 > *Team members* <br/>
 > [@SnowSuno](https://github.com/SnowSuno) (*me*) <br/>
@@ -64,13 +124,14 @@
 > `* currently on development`
 > 
 > repos <br/>
-> [frontend](https://github.com/jiwon79/HANDA)&nbsp;&nbsp;&nbsp;[backend](https://github.com/SnowSuno/handa-backend)
+> [`frontend`](https://github.com/jiwon79/HANDA)
+> [`backend`](https://github.com/SnowSuno/handa-backend)
 > 
 > *Team members* <br/>
-> `PM` [@mn39](https://github.com/mn39) <br/>
-> `Design` Juwon Park <br/>
-> `Frontend` [@jiwon79](https://github.com/jiwon79) <br/>
-> `Backend` [@SnowSuno](https://github.com/SnowSuno) (*me*)
+> - PM [`@mn39`](https://github.com/mn39) <br/>
+> - Design `Juwon Park` <br/>
+> - Frontend [`@jiwon79`](https://github.com/jiwon79) <br/>
+> - Backend [`@SnowSuno`](https://github.com/SnowSuno) (*me*)
 >
 > <img src="https://img.shields.io/badge/Flutter-6a707a?style=flat-square&logo=Flutter&logoColor=white&labelColor=02569B"/></a>
 > <img src="https://img.shields.io/badge/FastAPI-6a707a?style=flat-square&logo=FastAPI&logoColor=white&labelColor=009688"/></a>
@@ -82,7 +143,7 @@
   <summary>🐝 <strong>KSABee</strong> - <i>A LOL history tracker and leaderboard for KSA students</i></summary>
 <br/>
   
-`https:/ksabee.netlify.app/`
+[`https:/ksabee.netlify.app/`](https:/ksabee.netlify.app/)
   
 <img src="https://github.com/SnowSuno/profile-assets/blob/main/ksabee.png?raw=true" alt="KSABee" width="700"/>
   
@@ -91,10 +152,12 @@
 > `* currently abandoned :(`
 > 
 > repos <br/>
-> [frontend](https://github.com/SnowSuno/KSAbee)&nbsp;&nbsp;&nbsp;[backend (Django legacy)](https://github.com/SnowSuno/KSAbee_BE)&nbsp;&nbsp;&nbsp;[backend (FastAPI migration)](https://github.com/SnowSuno/KSAbee-backend)
+> [`frontend`](https://github.com/SnowSuno/KSAbee)
+> [`backend (Django legacy)`](https://github.com/SnowSuno/KSAbee_BE)
+> [`backend (FastAPI migration)`](https://github.com/SnowSuno/KSAbee-backend)
 >
 > service <br/>
-> [web](https://ksabee.netlify.app)
+> [`web`](https://ksabee.netlify.app)
 > 
 > *developed with* [@jiwon79](https://github.com/jiwon79)
 > 
@@ -111,17 +174,21 @@
   <summary>🎼 <strong>Syncroom Korea</strong> - <i>Extended web interface for Korean syncroom users</i></summary>
 <br/>
   
-`https://syncroom.kr/`
+[`https://syncroom.kr/`](https://syncroom.kr/)
   
 <img src="https://github.com/SnowSuno/profile-assets/blob/main/syncroom.png?raw=true" alt="syncroom korea" width="700"/>
   
 > This is a web service that extends the functionalites of *Syncroom*, an online music platform made by yamaha. This is also my first project on `React` and `Next.js`.
 > * Current version <br/>
-> [repo](https://github.com/syncroomkr/syncroomkr.github.io)&nbsp;&nbsp;&nbsp;[service](https://syncroom.kr)
+> [`repo`](https://github.com/syncroomkr/syncroomkr.github.io)
+> [`service`](https://syncroom.kr)
+> 
 > * Mobile prototype (JazzBangIt) <br/>
-> [repo](https://github.com/snowsuno/jazzbangit)&nbsp;&nbsp;&nbsp;[service](https://jazzbangit.netlify.app)
+> [`repo`](https://github.com/snowsuno/jazzbangit)
+> [`service`](https://jazzbangit.netlify.app)
+> 
 > * New version (on development) <br/>
-> [repo](https://github.com/snowsuno/syncroom-connect)
+> [`repo`](https://github.com/snowsuno/syncroom-connect)
 > 
 > <img src="https://img.shields.io/badge/React-6a707a?style=flat-square&logo=React&logoColor=white&labelColor=61DAFB"/></a>
 > <img src="https://img.shields.io/badge/Next.js-6a707a?style=flat-square&logo=Next.js&logoColor=white&labelColor=000000"/></a>
@@ -140,7 +207,7 @@
   
 > This was a project for my Data Structure class. We built and installed beacons that could count the number of people in a specific place by their cell phone wifi signals, and displayed that data in the web so that users could avoid crowded places. Which would also have positive effects on the COVID 19 situation. 
 > 
-> &nbsp;[repo](https://github.com/2snchan/dsprobelog)&nbsp;&nbsp;&nbsp;[service](https://ksadensity.com)
+> &nbsp;[`repo`](https://github.com/2snchan/dsprobelog)&nbsp;&nbsp;&nbsp;[`service`](https://ksadensity.com)
 > 
 > *developed with* [@2snchan](https://github.com/2snchan)
 > 
@@ -161,7 +228,7 @@
   
 > This was my first web project made by basic `HTML`, `CSS`, and `Javascript`. It was used in our school festival, *SAF*.
 > 
-> &nbsp;[service](https://saf2021.netlify.app)
+> &nbsp;[`service`](https://saf2021.netlify.app)
 > 
 > <img src="https://img.shields.io/badge/HTML5-6a707a?style=flat-square&logo=HTML5&logoColor=white&labelColor=E34F26"/></a>
 > <img src="https://img.shields.io/badge/CSS3-6a707a?style=flat-square&logo=CSS3&logoColor=white&labelColor=1572B6"/></a>
@@ -175,9 +242,9 @@
 
 > This project was built to help the communications between the Korean students and international students in KSA.
 > 
-> &nbsp;[repo](https://github.com/ksaidev/transbot)
+> &nbsp;[`repo`](https://github.com/ksaidev/transbot)
 > 
-> *developed with* [@YerinKim125](https://github.com/YerinKim125) [@jhleekr](https://github.com/jhleekr)
+> *developed with* [`@YerinKim125`](https://github.com/YerinKim125) [`@jhleekr`](https://github.com/jhleekr)
 > 
 > <img src="https://img.shields.io/badge/Python-6a707a?style=flat-square&logo=Python&logoColor=white&labelColor=3766AB"/></a>
 </details>
@@ -207,6 +274,7 @@
   <img src="https://img.shields.io/badge/React_Native-6a707a?style=for-the-badge&logo=React&logoColor=white&labelColor=61DAFB"/></a>&nbsp
   <br/>
   <img src="https://img.shields.io/badge/NestJS-6a707a?style=for-the-badge&logo=NestJS&logoColor=white&labelColor=E0234E"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Meteor-6a707a?style=for-the-badge&logo=Meteor&logoColor=white&labelColor=DE4F4F"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Django-6a707a?style=for-the-badge&logo=Django&logoColor=white&labelColor=092E20"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Redux-6a707a?style=for-the-badge&logo=Redux&logoColor=white&labelColor=764ABC"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Flutter-6a707a?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=02569B"/></a>&nbsp 
