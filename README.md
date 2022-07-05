@@ -19,6 +19,7 @@
 - **Devsisters** [@devsisters](https://github.com/devsisters) &nbsp;  `2022.03 ~ 2022.04`
   > Worked on [`Cookierun Store`](https://cookierunstore.co.kr) frontend
 
+<br/>
 
 ### 📂 Projects that I worked on
 
