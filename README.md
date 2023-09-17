@@ -12,7 +12,7 @@
   > Currently enrolling in *KAIST*
   
 - **SPARCS** [@sparcs-kaist](https://github.com/sparcs-kaist) &nbsp; `2022.03 ~ `
-  > System Programmers’ Association for Researching Computer Systems
+  > Chief System Administrator
   >
   > Working on [`DongBang`](https://dongbang.sparcs.org), [`Zabo`](https://zabo.sparcs.org)
 
